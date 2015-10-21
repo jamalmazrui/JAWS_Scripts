@@ -17,4 +17,12 @@ tb_scr.zip = Scripts for Mozilla Thunderbird.
 
 FxMax.zip = Scripts for Mozilla Firefox.
 
- IEMax.zip = Scripts for Internet Explorer.
+ScriptTemplate.zip = An extensive set of event functions, with debugging support, designed to serve as an initial basis for developing JAWS scripts that improve the accessibility of an application.
+
+IEMax.zip = Scripts for Internet Explorer.
+
+
+Note that the zip archives for IE, Firefox, and Thunderbird include the InPy web client, which is also available independently at
+http://github.com/JamalMazrui/InPy
+
+For all these packages, the many InPy files should be placed alongside other script files in the JAWS user script directory, so installing more than one of these packages simply replaces the same InPy files on disk.  If the Web Client Utilities command, Alt+Shift+Space, is not desired in these scripts, the InPy files may be removed.
