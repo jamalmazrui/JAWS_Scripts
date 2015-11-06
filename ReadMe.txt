@@ -1,6 +1,6 @@
 JAWS Scripts
-Version 3.0
-October 21, 2015
+Version 3.1
+November 6, 2015
 Copyright 2004 - 2015 by Jamal Mazrui
 GNU Lesser General Public License (LGPL)
 
@@ -12,6 +12,8 @@ The scripts are intended to improve accessibility and efficiency in various appl
 The script packages, contained in zip archives, are listed in the following order of their development:
 
 kitsetup.zip = Scripts for Notepad, WordPad, JAWS Script Manager, Notetab Pro, and Microsoft Word, which all create a consistent user interface called the "Homer editor interface."
+
+msenv2005.zip = Scripts for Microsoft Visual Studio 2005 and 2008, developed with assistance from others in the blind programming community.
 
 tb_scr.zip = Scripts for Mozilla Thunderbird.
 
